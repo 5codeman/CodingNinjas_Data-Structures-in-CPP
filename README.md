@@ -1,5 +1,5 @@
 # CodingNinjas_Data-Structures-in-CPP
-In this repo I will upload Solutions of Data Structures in C++ Course by Coding Ninjas.
+In this repo, I have uploaded solutions for Data Structures in C++ Course by Coding Ninjas.
 
 Topics Covered -:
 
